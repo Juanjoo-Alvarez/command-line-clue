@@ -16,6 +16,6 @@ gazebo (Walkin stick, Brass candlestick ) (Nadie)  descartado
 playground (Wal Stick, Brass candl) (nadie) descartado
 
 Pista1: hay que ir a la escuela
-
+Pista2: hay que revisar los salones de clases
 
 Location of the crime is still unknown - the room must have been empty when it happened...

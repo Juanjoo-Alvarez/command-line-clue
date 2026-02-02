@@ -3,11 +3,11 @@
 ## Suspects
 - [ ] The Journalist
 - [ ] The Innkeeper
-- [ ] The Teacher
+- [x] The Teacher
 
 ## Weapons
-- [ ] Wooden Box
-- [x] Leather Gloves
+- [x] Wooden Box
+- [ ] Leather Gloves
 - [ ] Brass Bell
 
 ## Notes

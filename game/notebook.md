@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Wooden Box
-- [ ] Leather Gloves
+- [x] Leather Gloves
 - [ ] Brass Bell
 
 ## Notes
@@ -17,5 +17,8 @@ playground (Wal Stick, Brass candl) (nadie) descartado
 
 Pista1: hay que ir a la escuela
 Pista2: hay que revisar los salones de clases
+Pista3: hay que ir al almacen en las tienda
+
+Localidad del crimen el almacen de la panaderia
 
 Location of the crime is still unknown - the room must have been empty when it happened...
